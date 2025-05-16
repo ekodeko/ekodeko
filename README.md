@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eko Darmawan</h1>
-<h3 align="center">Im fullstack developer from bogor indonesia, mostly work using laravel, but also code using javascript, python or anything cause i love learn</h3>
+<h3 align="center">Im fullstack developer from bogor indonesia, mostly work using laravel, but also code using javascript, python or any other language cause i love learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekodeko&label=Profile%20views&color=0e75b6&style=flat" alt="ekodeko" /> </p>
 
